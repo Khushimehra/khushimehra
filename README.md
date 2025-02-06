@@ -1,13 +1,13 @@
-## Hi 👋, I'm [Your Name]  
+## Hi 👋, I'm Khushi Mehra  
 A passionate **MERN stack developer** who enjoys creating dynamic and scalable web applications. Constantly exploring new technologies to improve efficiency and user experience.
 
 ---
 
 📫 **How to reach me:**  
-[![Email](https://img.icons8.com/ios-filled/50/D14836/gmail.png)](mailto:your-email@example.com)  
-[![LinkedIn](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)](https://linkedin.com/in/your-profile)  
+[![Email](https://img.icons8.com/ios-filled/50/D14836/gmail.png)](mailto:akmkhushimehra02@gmail.com)  
+[![LinkedIn](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)](https://linkedin.com/in/khushimehra)  
 
-📄 **Here's my resume:** [Resume Link](https://your-resume-link.com)  
+📄 **Here's my resume:** [Resume Link](https://drive.google.com/file/d/1siN5kteL5ciZSEGcU4dGSYvL2IKu5bH1/view?usp=sharing)  
 
 ---
 
@@ -31,9 +31,9 @@ A passionate **MERN stack developer** who enjoys creating dynamic and scalable w
 ---
 
 ## 📊 Most Used Languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khushimehra&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=your-username&icon=0&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=khushimehra&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
