@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hi there, I'm [Your Name]! 👋  
 
-<!--
-**Khushimehra/khushimehra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---  
 
-Here are some ideas to get you started:
+### 📌 About Me  
+Working with the **MERN stack** to build scalable and efficient web applications. Always learning and improving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---  
+
+### 🌐 Socials  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Your-LinkedIn-Link)  
+📧 Email: YourEmail@example.com  
+
+---  
+
+### 💻 Tech Stack  
+- **Languages:** Java, JavaScript, CSS3, HTML5  
+- **Frontend:** React, TailwindCSS, EJS  
+- **Backend:** Node.js, Express.js  
+- **Databases:** MongoDB, MySQL  
+- **Version Control:** Git, GitHub  
+- **Hosting:** Render  
+
+---  
+
+### 📊 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=default)  
+
+---  
+
+Thanks for stopping by! 😊
