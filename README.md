@@ -1,15 +1,44 @@
-Hii, I am khushi Mehra!!
-# 💫 About Me:
-Working with the MERN stack to build scalable and efficient web applications. Always learning and improving.
+<h1 align="center">Hi there, I'm Khushi Mehra 👋</h1>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khushimehra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akmkhushimehra02@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khushimehra&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <b>MERN Stack Developer</b> | Passionate about building real-world projects and exploring new technologies.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=khushimehra&icon=0&color=9)](https://visitcount.itsvg.in)
+
+### 🧑‍💻 About Me
+
+- 🎓 BTech CSE Student at Medicaps University  
+- 💻 Focused on Web Development using **MERN Stack**  
+- 🌱 Currently improving my **DSA skills** and working on personal projects  
+- 📫 Email: [akmkhushimehra02@gmail.com](mailto:akmkhushimehra02@gmail.com)  
+- 📄 [View My Resume](https://drive.google.com/file/d/18iNcMr22P1u-aHg_h2QDzl8KGlhWVwtR/view?usp=drive_link)
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,vscode,git,github,bootstrap,materialui,tailwind" />
+</p>
+
+---
+
+### 📊 Most Used Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushimehra&layout=compact&theme=default" alt="Top Languages">
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/khushimehra" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:akmkhushimehra02@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
