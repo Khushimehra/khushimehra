@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Khushi Mehra 👋</h1>
 
 <p align="center">
-  <b>MERN Stack Developer</b> | Passionate about building real-world projects and exploring new technologies.
+  <b>MERN Stack Developer</b>
 </p>
 
 ---
